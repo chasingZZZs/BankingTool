@@ -1,0 +1,28 @@
+Event Item Properties (DRAFT)
+
+EventID:
+EventName:
+EventDescription:
+EventType:
+EventDate:
+EventRecurrence:
+
+- Recurring Event
+Frequency:
+EndDate
+
+- Property Change
+AAccountID
+PropertyName:
+PropertyNewValue:
+
+- Transaction
+PrimaryAccountID:
+SecondaryAccountID:
+Amount:
+
+- New Account
+AccountName:
+AccountDescription:
+AccountType:
+AccountProperties:
